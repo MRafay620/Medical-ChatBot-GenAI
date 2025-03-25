@@ -1,6 +1,8 @@
 # Medical-ChatBot-GenAI
 
+<img width="608" alt="Image" src="https://github.com/user-attachments/assets/3b5f8b32-d2ac-471b-bd9e-35266435762c" />
 
+<img width="614" alt="Image" src="https://github.com/user-attachments/assets/b056d846-bed3-4c57-9a7a-9947f706e907" />
 
 # How to run?
 ### STEPS:
